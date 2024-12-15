@@ -16,7 +16,7 @@ This script automates the process of initializing a Git repository, committing c
 
 1. Clone or download this script to your local machine.
 2. Open a command prompt or terminal and navigate to the folder where the script is located.
-3. Run the script by typing `script_name.bat` (Windows batch file).
+3. Run the script by typing `githelp.bat` (Windows batch file).
 4. Follow the on-screen prompts:
     - Enter the description of the commit.
     - Provide the remote repository URL.
